@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dice Roller JetPack</string>
+    <string name="roll">Roll</string>
 </resources>
